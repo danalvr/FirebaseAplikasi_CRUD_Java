@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_add_mhs.xml" value="0.1675" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.161" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_back2.xml" value="0.161" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_list_mhs.xml" value="0.1675" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_mhs.xml" value="0.1675" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_detail_card1.xml" value="0.1859375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_detail_card2.xml" value="0.1859375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_detail_card3.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_detail_card4.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_detail_card5.xml" value="0.1859375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_edit_mhs.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_list_mhs.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_main.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_profil_kelompok6.xml" value="0.2" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_tambah_mhs.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/detail_card1.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/detail_card2.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/detail_card3.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/detail_card4.xml" value="0.234375" />
+        <entry key="..\:/Users/A S U S/StudioProjects/FirebaseAplikasi/app/src/main/res/layout/detail_card5.xml" value="0.234375" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_add_mhs.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_list_mhs.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/drawable-anydpi/ic_mhs.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/drawable/frame.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_edit_mhs.xml" value="0.4" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_list_mhs.xml" value="0.4" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/layout/activity_tambah_mhs.xml" value="0.4" />
+        <entry key="..\:/Users/DAVID GAME/AndroidStudioProjects/FirebaseAplikasi/app/src/main/res/layout/item_mhs.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
